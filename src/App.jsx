@@ -9,20 +9,20 @@ const ADMIN_PASSWORD = 'admin123';
 const documents = {
   DPS: {
     DRILLING: [
-      { name: 'Drilling Connection', file: '/Drilling Connection.pdf' },
-      { name: 'Laying Down Tools', file: '/Laying Down Tools.pdf' },
+      { name: 'Drilling Connection', file: 'Public/Drilling Connection.pdf' },
+      { name: 'Laying Down Tools', file: 'Public/Laying Down Tools.pdf' },
     ],
     DECK: [
-      { name: 'Tandem Lift', file: '/Tandem Lift.pdf' },
+      { name: 'Tandem Lift', file: 'Public/Tandem Lift.pdf' },
     ],
   },
   DTH: {
     DRILLING: [
-      { name: 'Drilling Connection', file: '/Drilling Connection.pdf' },
-      { name: 'Laying Down Tools', file: '/Laying Down Tools.pdf' },
+      { name: 'Drilling Connection', file: 'Public/Drilling Connection.pdf' },
+      { name: 'Laying Down Tools', file: 'Public/Laying Down Tools.pdf' },
     ],
     DECK: [
-      { name: 'Tandem Lift', file: '/Tandem Lift.pdf' },
+      { name: 'Tandem Lift', file: 'Public/Tandem Lift.pdf' },
     ],
   },
 };
